@@ -1,0 +1,20 @@
+#wrap{
+	width:530px;
+	margin-left:auto; 
+	margin-right:auto;
+	text-align:center;
+}
+		
+table{
+	margin-left:auto; 
+	margin-right:auto;
+	border:3px solid #7ba0cc;
+}
+		
+td{
+	border:1px solid #7ba0cc;
+}
+		
+#title{
+	background-color:#7ba0cc;
+}
